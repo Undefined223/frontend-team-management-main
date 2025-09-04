@@ -1,0 +1,19 @@
+.container {
+    @apply w-full h-[100vh] flex items-center justify-center;
+}
+
+.formContainer {
+    @apply w-2/5;
+}
+
+.header {
+    @apply text-center text-[40px]
+}
+
+.form {
+    @apply space-y-[20px]
+}
+
+.loginBtn {
+    @apply w-full
+}
